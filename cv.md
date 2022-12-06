@@ -6,3 +6,8 @@
 ### Briefly About Myself:
 My name is Denis and I am 23 years old. My education is specialized secondary, specialty information systems
 I find a common language with people, I like to work in a team.
+### Skills
+* C#
+* C++
+* HTML
+* CSS
